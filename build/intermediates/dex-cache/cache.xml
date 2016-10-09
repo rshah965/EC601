@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cc76a9ad707f239593ceebc3018ff24d3613ae83.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cc76a9ad707f239593ceebc3018ff24d3613ae83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_397feb3ced0b05d7d17897842b540ace5275b77d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="769255994c3b990419adb9e0343b9a16a9569cab">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c11877e7740c029ed8ed3f4809d5c39a4c01de4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_55cb7e0f2c285a3436c92f086e221f7a4d9d9aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_7a995923f6c44a4e3bd60be49fa86834473c6161.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b9d8327c28f20a0b676bacc2363b219297d6c345\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f78206da67b10737f430bf7307f98a88e112bbea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.6.1_fe995e62086ff21f049d23e0c62860768231f995\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_f3d12b5267ebee68986b29eb4aede42edbd9ce7e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_f78206da67b10737f430bf7307f98a88e112bbea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_f3d12b5267ebee68986b29eb4aede42edbd9ce7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_b9d8327c28f20a0b676bacc2363b219297d6c345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_0bdf2f88588af139374ab8418e2f7369a673ebfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_69f3ad352036524a8941d36522b1b6a790db7dd0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_0bdf2f88588af139374ab8418e2f7369a673ebfd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_69f3ad352036524a8941d36522b1b6a790db7dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7a995923f6c44a4e3bd60be49fa86834473c6161\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_4ddfe64c55631282047a859a37be2061c442e503.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AppData\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_aae87cea2ae46dbe17e52bbe20854613158e363d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AppData\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_aae87cea2ae46dbe17e52bbe20854613158e363d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4ddfe64c55631282047a859a37be2061c442e503\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_e42c15f5b59b5993d4492b86393e3309615c8d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2a338768aee0f11b231f3a4c38bc2e0fe8608609.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2a338768aee0f11b231f3a4c38bc2e0fe8608609\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_597fdd678cacfd4f6fc09d9d1329525415543027\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_597fdd678cacfd4f6fc09d9d1329525415543027.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e42c15f5b59b5993d4492b86393e3309615c8d64\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_da07fb6dd9e06adc07e6a8aa8d9295f0c3b6d06b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_da07fb6dd9e06adc07e6a8aa8d9295f0c3b6d06b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9dbb289d9f490e2b9c7ae4ea1d8deae90cc43ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_efa8663dbd5443591f323bb3ec09006dd1600114\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_efa8663dbd5443591f323bb3ec09006dd1600114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e44785677686fd9da7061a347e44e56ff9726189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9dbb289d9f490e2b9c7ae4ea1d8deae90cc43ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.6.1_fe995e62086ff21f049d23e0c62860768231f995.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1405574162def05bc018373ce6d875ea1c12af1e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13cc184ae7623be2a20ddc20d28538a7b5ca42d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_dc6a2c2c65ab05db3bb82fcf2d9443e7738307a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_dc6a2c2c65ab05db3bb82fcf2d9443e7738307a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_55cb7e0f2c285a3436c92f086e221f7a4d9d9aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_397feb3ced0b05d7d17897842b540ace5275b77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\ExampleAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e44785677686fd9da7061a347e44e56ff9726189\classes.dex" />
+    </item>
+
+</items>
